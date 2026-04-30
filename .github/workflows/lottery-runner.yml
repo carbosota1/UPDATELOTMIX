@@ -1,8 +1,7 @@
 name: UPDATELOTMIX - Intraday Runner
 
 on:     
-  schedule:
-    - cron: "0 12 * * *"
+  
   workflow_dispatch:
 
 concurrency:
