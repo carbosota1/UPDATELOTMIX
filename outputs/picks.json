@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-05-04T16:38:08.725178-04:00",
-  "event_key": "2026-05-04|TEST|NO-UPDATE",
+  "generated_at": "2026-05-04T18:22:50.926857-04:00",
+  "event_key": "2026-05-04|La Suerte|Quiniela La Suerte 6PM",
   "target": {
-    "time_rd": "2026-05-04 18:00",
-    "lottery": "La Suerte",
-    "draw": "Quiniela La Suerte 6PM"
+    "time_rd": "2026-05-04 19:00",
+    "lottery": "La Primera",
+    "draw": "Quiniela La Primera Noche"
   },
   "best_play": {
-    "time_rd": "2026-05-04 18:00",
-    "lottery": "La Suerte",
-    "draw": "Quiniela La Suerte 6PM",
+    "time_rd": "2026-05-04 19:00",
+    "lottery": "La Primera",
+    "draw": "Quiniela La Primera Noche",
     "top12": [
-      "60",
-      "95",
+      "76",
+      "87",
       "19",
       "30",
-      "87",
-      "92",
-      "66",
-      "53",
-      "88",
-      "21",
-      "07",
-      "35"
+      "22",
+      "95",
+      "96",
+      "33",
+      "42",
+      "41",
+      "18",
+      "31"
     ],
     "topq": [
-      "60",
-      "95",
+      "76",
+      "87",
       "19"
     ],
     "pales": [
-      "60-95",
-      "19-60",
-      "30-60"
+      "76-87",
+      "19-76",
+      "30-76"
     ],
-    "fingerprint": "3f2e875171cf2ec9",
+    "fingerprint": "1b9f1b4098bc703b",
     "ok_alert": false,
-    "best_signal": 0.002449018277588668,
-    "best_a11": 10,
+    "best_signal": 0.016921914937099703,
+    "best_a11": 3,
     "debug": {
-      "best_signal_hist": 0.002449018277588668,
-      "best_a11_hist": 10,
+      "best_signal_hist": 0.016921914937099703,
+      "best_a11_hist": 3,
       "has_intraday_sources": 0,
       "intraday_events": 0,
-      "today_observed_nums": 14,
-      "source_pairs_today": 5,
-      "source_rows_hist_used": 2562
+      "today_observed_nums": 18,
+      "source_pairs_today": 7,
+      "source_rows_hist_used": 659
     }
   }
 }
