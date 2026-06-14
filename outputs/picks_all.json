@@ -1,157 +1,55 @@
 {
-  "generated_at": "2026-06-14T16:14:30.707148-04:00",
-  "event_key": "2026-06-14|La Nacional|Loteria Nacional- Gana Más",
+  "generated_at": "2026-06-14T18:23:38.938431-04:00",
+  "event_key": "2026-06-14|La Suerte|Quiniela La Suerte 6PM",
   "items": [
     {
-      "generated_at": "2026-06-14T16:13:57.423497-04:00",
-      "event_key": "2026-06-14|La Nacional|Loteria Nacional- Gana Más",
+      "generated_at": "2026-06-14T18:23:33.081508-04:00",
+      "event_key": "2026-06-14|La Suerte|Quiniela La Suerte 6PM",
       "target": {
-        "time_rd": "2026-06-14 18:00",
-        "lottery": "Anguilla",
-        "draw": "Anguila 6PM"
+        "time_rd": "2026-06-14 19:00",
+        "lottery": "La Primera",
+        "draw": "Quiniela La Primera Noche"
       },
       "best_play": {
-        "time_rd": "2026-06-14 18:00",
-        "lottery": "Anguilla",
-        "draw": "Anguila 6PM",
+        "time_rd": "2026-06-14 19:00",
+        "lottery": "La Primera",
+        "draw": "Quiniela La Primera Noche",
         "top12": [
+          "37",
+          "55",
           "33",
-          "42",
-          "03",
-          "26",
-          "63",
-          "70",
-          "59",
-          "66",
-          "46",
-          "54",
-          "48",
-          "47"
-        ],
-        "topq": [
-          "33",
-          "42",
+          "81",
+          "92",
+          "17",
+          "80",
+          "61",
+          "22",
+          "36",
+          "83",
           "03"
         ],
-        "pales": [
-          "33-42",
-          "03-33",
-          "26-33"
-        ],
-        "fingerprint": "f158519783134e9b",
-        "ok_alert": false,
-        "best_signal": 0.005469216807521946,
-        "best_a11": 12,
-        "debug": {
-          "best_signal_hist": 0.005469216807521946,
-          "best_a11_hist": 12,
-          "has_intraday_sources": 0,
-          "intraday_events": 0,
-          "today_observed_nums": 14,
-          "source_pairs_today": 5,
-          "source_rows_hist_used": 2613
-        }
-      }
-    },
-    {
-      "generated_at": "2026-06-14T16:14:13.715002-04:00",
-      "event_key": "2026-06-14|La Nacional|Loteria Nacional- Gana Más",
-      "target": {
-        "time_rd": "2026-06-14 18:00",
-        "lottery": "La Nacional",
-        "draw": "Loteria Nacional- Noche"
-      },
-      "best_play": {
-        "time_rd": "2026-06-14 18:00",
-        "lottery": "La Nacional",
-        "draw": "Loteria Nacional- Noche",
-        "top12": [
-          "03",
-          "61",
-          "80",
+        "topq": [
           "37",
-          "84",
-          "11",
-          "90",
-          "13",
-          "38",
-          "49",
-          "07",
-          "63"
-        ],
-        "topq": [
-          "03",
-          "61",
-          "80"
+          "55",
+          "33"
         ],
         "pales": [
-          "03-61",
-          "03-80",
-          "03-37"
+          "37-55",
+          "33-37",
+          "37-81"
         ],
-        "fingerprint": "5727707ac6f63621",
+        "fingerprint": "eb847dbbec6682a5",
         "ok_alert": false,
-        "best_signal": 0.0009704112463435204,
-        "best_a11": 9,
+        "best_signal": 0.007862859838982258,
+        "best_a11": 4,
         "debug": {
-          "best_signal_hist": 0.0009704112463435204,
-          "best_a11_hist": 9,
+          "best_signal_hist": 0.007862859838982258,
+          "best_a11_hist": 4,
           "has_intraday_sources": 0,
           "intraday_events": 0,
-          "today_observed_nums": 14,
-          "source_pairs_today": 5,
-          "source_rows_hist_used": 2613
-        }
-      }
-    },
-    {
-      "generated_at": "2026-06-14T16:14:29.971223-04:00",
-      "event_key": "2026-06-14|La Nacional|Loteria Nacional- Gana Más",
-      "target": {
-        "time_rd": "2026-06-14 18:00",
-        "lottery": "La Suerte",
-        "draw": "Quiniela La Suerte 6PM"
-      },
-      "best_play": {
-        "time_rd": "2026-06-14 18:00",
-        "lottery": "La Suerte",
-        "draw": "Quiniela La Suerte 6PM",
-        "top12": [
-          "92",
-          "66",
-          "53",
-          "73",
-          "21",
-          "35",
-          "30",
-          "88",
-          "51",
-          "07",
-          "79",
-          "02"
-        ],
-        "topq": [
-          "92",
-          "66",
-          "53"
-        ],
-        "pales": [
-          "66-92",
-          "53-92",
-          "73-92"
-        ],
-        "fingerprint": "e06b3c2a520298ba",
-        "ok_alert": false,
-        "best_signal": 5.522266080526923e-06,
-        "best_a11": 7,
-        "debug": {
-          "best_signal_hist": 5.522266080526923e-06,
-          "best_a11_hist": 7,
-          "has_intraday_sources": 0,
-          "intraday_events": 0,
-          "today_observed_nums": 14,
-          "source_pairs_today": 5,
-          "source_rows_hist_used": 2613
+          "today_observed_nums": 19,
+          "source_pairs_today": 8,
+          "source_rows_hist_used": 858
         }
       }
     }
