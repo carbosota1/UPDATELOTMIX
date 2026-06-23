@@ -1,55 +1,55 @@
 {
-  "generated_at": "2026-06-23T12:50:28.847231-04:00",
+  "generated_at": "2026-06-23T13:22:22.381451-04:00",
   "event_key": "2026-06-23|TEST|NO-UPDATE",
   "items": [
     {
-      "generated_at": "2026-06-23T12:50:28.092472-04:00",
+      "generated_at": "2026-06-23T13:22:21.638001-04:00",
       "event_key": "2026-06-23|TEST|NO-UPDATE",
       "target": {
-        "time_rd": "2026-06-23 13:00",
-        "lottery": "Anguilla",
-        "draw": "Anguila 1PM"
+        "time_rd": "2026-06-23 14:30",
+        "lottery": "La Nacional",
+        "draw": "Loteria Nacional- Gana Más"
       },
       "best_play": {
-        "time_rd": "2026-06-23 13:00",
-        "lottery": "Anguilla",
-        "draw": "Anguila 1PM",
+        "time_rd": "2026-06-23 14:30",
+        "lottery": "La Nacional",
+        "draw": "Loteria Nacional- Gana Más",
         "top12": [
+          "40",
+          "00",
+          "20",
           "13",
-          "60",
-          "77",
-          "94",
-          "65",
+          "64",
           "89",
+          "37",
+          "94",
+          "41",
+          "95",
           "82",
-          "81",
-          "33",
-          "57",
-          "83",
-          "01"
+          "42"
         ],
         "topq": [
-          "13",
-          "60",
-          "77"
+          "40",
+          "00",
+          "20"
         ],
         "pales": [
-          "13-60",
-          "13-77",
-          "13-94"
+          "00-40",
+          "20-40",
+          "13-40"
         ],
-        "fingerprint": "8a27789f82157e5d",
+        "fingerprint": "86c3097fc9126187",
         "ok_alert": false,
-        "best_signal": 0.0012225294836779223,
-        "best_a11": 0,
+        "best_signal": 0.002559844579972177,
+        "best_a11": 9,
         "debug": {
-          "best_signal_hist": 0.0012225294836779223,
-          "best_a11_hist": 0,
+          "best_signal_hist": 0.002559844579972177,
+          "best_a11_hist": 9,
           "has_intraday_sources": 0,
           "intraday_events": 0,
           "today_observed_nums": 9,
-          "source_pairs_today": 3,
-          "source_rows_hist_used": 889
+          "source_pairs_today": 4,
+          "source_rows_hist_used": 1112
         }
       }
     }
