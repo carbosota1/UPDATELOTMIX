@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-08-04T16:14:05.936436-04:00",
-  "event_key": "2026-08-04|La Nacional|Loteria Nacional- Gana Más",
+  "generated_at": "2026-08-04T18:19:16.394901-04:00",
+  "event_key": "2026-08-04|La Suerte|Quiniela La Suerte 6PM",
   "target": {
-    "time_rd": "2026-08-04 18:00",
-    "lottery": "La Suerte",
-    "draw": "Quiniela La Suerte 6PM"
+    "time_rd": "2026-08-04 19:00",
+    "lottery": "La Primera",
+    "draw": "Quiniela La Primera Noche"
   },
   "best_play": {
-    "time_rd": "2026-08-04 18:00",
-    "lottery": "La Suerte",
-    "draw": "Quiniela La Suerte 6PM",
+    "time_rd": "2026-08-04 19:00",
+    "lottery": "La Primera",
+    "draw": "Quiniela La Primera Noche",
     "top12": [
-      "14",
-      "19",
-      "95",
+      "26",
       "27",
+      "55",
+      "95",
+      "87",
+      "13",
       "88",
-      "53",
-      "92",
-      "73",
-      "66",
-      "21",
-      "35",
-      "51"
+      "54",
+      "25",
+      "58",
+      "14",
+      "18"
     ],
     "topq": [
-      "14",
-      "19",
-      "95"
+      "26",
+      "27",
+      "55"
     ],
     "pales": [
-      "14-19",
-      "14-95",
-      "14-27"
+      "26-27",
+      "26-55",
+      "26-95"
     ],
-    "fingerprint": "644ee92baf45057b",
-    "ok_alert": false,
-    "best_signal": 0.0019336136874035662,
-    "best_a11": 9,
+    "fingerprint": "2ee2a644435e0f34",
+    "ok_alert": true,
+    "best_signal": 0.016939160671982027,
+    "best_a11": 2,
     "debug": {
-      "best_signal_hist": 0.0019336136874035662,
-      "best_a11_hist": 9,
+      "best_signal_hist": 0.016939160671982027,
+      "best_a11_hist": 2,
       "has_intraday_sources": 0,
       "intraday_events": 0,
-      "today_observed_nums": 15,
-      "source_pairs_today": 5,
-      "source_rows_hist_used": 2865
+      "today_observed_nums": 20,
+      "source_pairs_today": 7,
+      "source_rows_hist_used": 788
     }
   }
 }
