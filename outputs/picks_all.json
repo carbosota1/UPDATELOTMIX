@@ -1,55 +1,106 @@
 {
-  "generated_at": "2026-08-21T18:20:14.011105-04:00",
+  "generated_at": "2026-08-21T19:20:53.632264-04:00",
   "event_key": "2026-08-21|TEST|NO-UPDATE",
   "items": [
     {
-      "generated_at": "2026-08-21T18:20:13.231878-04:00",
+      "generated_at": "2026-08-21T19:20:29.387223-04:00",
       "event_key": "2026-08-21|TEST|NO-UPDATE",
       "target": {
-        "time_rd": "2026-08-21 19:00",
-        "lottery": "La Primera",
-        "draw": "Quiniela La Primera Noche"
+        "time_rd": "2026-08-21 21:00",
+        "lottery": "Anguilla",
+        "draw": "Anguila 9PM"
       },
       "best_play": {
-        "time_rd": "2026-08-21 19:00",
-        "lottery": "La Primera",
-        "draw": "Quiniela La Primera Noche",
+        "time_rd": "2026-08-21 21:00",
+        "lottery": "Anguilla",
+        "draw": "Anguila 9PM",
         "top12": [
-          "11",
-          "97",
-          "86",
-          "16",
-          "25",
           "82",
+          "86",
           "96",
-          "17",
-          "14",
-          "18",
-          "31",
-          "41"
+          "75",
+          "91",
+          "46",
+          "12",
+          "97",
+          "06",
+          "63",
+          "76",
+          "55"
         ],
         "topq": [
-          "11",
-          "97",
-          "86"
+          "82",
+          "86",
+          "96"
         ],
         "pales": [
-          "11-97",
-          "11-86",
-          "11-16"
+          "82-86",
+          "82-96",
+          "75-82"
         ],
-        "fingerprint": "ae1b245f76e0052f",
-        "ok_alert": true,
-        "best_signal": 0.011414638218488617,
-        "best_a11": 2,
+        "fingerprint": "0f94b63f42fa4ef9",
+        "ok_alert": false,
+        "best_signal": 0.02284214920596376,
+        "best_a11": 5,
         "debug": {
-          "best_signal_hist": 0.011414638218488617,
-          "best_a11_hist": 2,
+          "best_signal_hist": 0.02284214920596376,
+          "best_a11_hist": 5,
           "has_intraday_sources": 0,
           "intraday_events": 0,
           "today_observed_nums": 14,
-          "source_pairs_today": 7,
-          "source_rows_hist_used": 512
+          "source_pairs_today": 8,
+          "source_rows_hist_used": 584
+        }
+      }
+    },
+    {
+      "generated_at": "2026-08-21T19:20:52.823927-04:00",
+      "event_key": "2026-08-21|TEST|NO-UPDATE",
+      "target": {
+        "time_rd": "2026-08-21 21:00",
+        "lottery": "La Nacional",
+        "draw": "Loteria Nacional- Noche"
+      },
+      "best_play": {
+        "time_rd": "2026-08-21 21:00",
+        "lottery": "La Nacional",
+        "draw": "Loteria Nacional- Noche",
+        "top12": [
+          "97",
+          "96",
+          "12",
+          "75",
+          "91",
+          "25",
+          "11",
+          "80",
+          "61",
+          "38",
+          "90",
+          "84"
+        ],
+        "topq": [
+          "97",
+          "96",
+          "12"
+        ],
+        "pales": [
+          "96-97",
+          "12-97",
+          "75-97"
+        ],
+        "fingerprint": "bdfae6d40b3f131b",
+        "ok_alert": false,
+        "best_signal": 0.006811199517133202,
+        "best_a11": 3,
+        "debug": {
+          "best_signal_hist": 0.006811199517133202,
+          "best_a11_hist": 3,
+          "has_intraday_sources": 0,
+          "intraday_events": 0,
+          "today_observed_nums": 14,
+          "source_pairs_today": 8,
+          "source_rows_hist_used": 584
         }
       }
     }
