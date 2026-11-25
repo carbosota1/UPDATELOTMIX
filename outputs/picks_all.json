@@ -1,55 +1,106 @@
 {
-  "generated_at": "2026-11-25T14:21:59.319666-04:00",
-  "event_key": "2026-11-25|La Suerte|Quiniela La Suerte",
+  "generated_at": "2026-11-25T19:54:47.009607-04:00",
+  "event_key": "2026-11-25|Anguilla|Anguila 6PM",
   "items": [
     {
-      "generated_at": "2026-11-25T14:21:58.260347-04:00",
-      "event_key": "2026-11-25|La Suerte|Quiniela La Suerte",
+      "generated_at": "2026-11-25T19:54:13.637858-04:00",
+      "event_key": "2026-11-25|Anguilla|Anguila 6PM",
       "target": {
-        "time_rd": "2026-11-25 14:30",
-        "lottery": "La Nacional",
-        "draw": "Loteria Nacional- Gana Más"
+        "time_rd": "2026-11-25 21:00",
+        "lottery": "Anguilla",
+        "draw": "Anguila 9PM"
       },
       "best_play": {
-        "time_rd": "2026-11-25 14:30",
-        "lottery": "La Nacional",
-        "draw": "Loteria Nacional- Gana Más",
+        "time_rd": "2026-11-25 21:00",
+        "lottery": "Anguilla",
+        "draw": "Anguila 9PM",
         "top12": [
-          "32",
-          "21",
-          "95",
-          "20",
+          "59",
+          "34",
+          "19",
+          "37",
+          "39",
           "40",
-          "89",
-          "13",
-          "64",
-          "41",
-          "22",
-          "42",
-          "82"
+          "32",
+          "96",
+          "46",
+          "76",
+          "62",
+          "06"
         ],
         "topq": [
-          "32",
-          "21",
-          "95"
+          "59",
+          "34",
+          "19"
         ],
         "pales": [
-          "21-32",
-          "32-95",
-          "20-32"
+          "34-59",
+          "19-59",
+          "37-59"
         ],
-        "fingerprint": "3d843cb3e1f37f8d",
+        "fingerprint": "ebc51509501bd719",
         "ok_alert": false,
-        "best_signal": 0.0009206717440866014,
-        "best_a11": 6,
+        "best_signal": 0.007826185908374014,
+        "best_a11": 3,
         "debug": {
-          "best_signal_hist": 0.0009206717440866014,
-          "best_a11_hist": 6,
+          "best_signal_hist": 0.007826185908374014,
+          "best_a11_hist": 3,
           "has_intraday_sources": 0,
           "intraday_events": 0,
-          "today_observed_nums": 12,
-          "source_pairs_today": 4,
-          "source_rows_hist_used": 1785
+          "today_observed_nums": 23,
+          "source_pairs_today": 8,
+          "source_rows_hist_used": 1013
+        }
+      }
+    },
+    {
+      "generated_at": "2026-11-25T19:54:46.121755-04:00",
+      "event_key": "2026-11-25|Anguilla|Anguila 6PM",
+      "target": {
+        "time_rd": "2026-11-25 21:00",
+        "lottery": "La Nacional",
+        "draw": "Loteria Nacional- Noche"
+      },
+      "best_play": {
+        "time_rd": "2026-11-25 21:00",
+        "lottery": "La Nacional",
+        "draw": "Loteria Nacional- Noche",
+        "top12": [
+          "61",
+          "59",
+          "34",
+          "04",
+          "41",
+          "32",
+          "27",
+          "76",
+          "21",
+          "62",
+          "19",
+          "06"
+        ],
+        "topq": [
+          "61",
+          "59",
+          "34"
+        ],
+        "pales": [
+          "59-61",
+          "34-61",
+          "04-61"
+        ],
+        "fingerprint": "fe28d0e2300374b9",
+        "ok_alert": true,
+        "best_signal": 0.012611215350032979,
+        "best_a11": 3,
+        "debug": {
+          "best_signal_hist": 0.012611215350032979,
+          "best_a11_hist": 3,
+          "has_intraday_sources": 0,
+          "intraday_events": 0,
+          "today_observed_nums": 23,
+          "source_pairs_today": 8,
+          "source_rows_hist_used": 1013
         }
       }
     }
